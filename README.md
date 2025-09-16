@@ -30,6 +30,6 @@ This app lets you manage your daily tasks with filters, persistent storage, and 
    ```bash
    git clone https://github.com/SoumyadipSil/ToDo-App.git
 
-   
-
+---
+## DEMO
 
