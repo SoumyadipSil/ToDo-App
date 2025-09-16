@@ -5,7 +5,7 @@ This app lets you manage your daily tasks with filters, persistent storage, and 
 
 ---
 
-## ✨ Features
+## Features
 - ➕ Add tasks
 - ✅ Mark tasks as complete/incomplete
 - ❌ Delete tasks
@@ -17,19 +17,20 @@ This app lets you manage your daily tasks with filters, persistent storage, and 
 - 📱 Responsive design
 
 ---
+## Screenshot
+![Calculator Screenshot](https://raw.githubusercontent.com/SoumyadipSil/ToDo-App/refs/heads/main/Todoapp/image/ToDo_Screenshot.png?raw=true)
 
-## ⚙️ Tech Stack
+---
+
+##  Tech Stack
 - **HTML**  
 - **CSS** 
 - **JavaScript**   
 
 ---
 
-## 🚀 Getting Started
+## Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/SoumyadipSil/ToDo-App.git
-
----
-## DEMO
 
