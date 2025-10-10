@@ -20,7 +20,7 @@ This app lets you manage your daily tasks with filters, persistent storage, and 
 
 ---
 ## Screenshot
-![Calculator Screenshot](https://raw.githubusercontent.com/SoumyadipSil/ToDo-App/refs/heads/main/Todoapp/image/ToDo_Screenshot.png?raw=true)
+![To-Do App Screenshot](https://raw.githubusercontent.com/SoumyadipSil/ToDo-App/refs/heads/main/image/ToDo_Screenshot.png?raw=true)
 
 ---
 
