@@ -3,6 +3,8 @@
 A clean and responsive **To-Do List App** built using **HTML, CSS, and vanilla JavaScript**.  
 This app lets you manage your daily tasks with filters, persistent storage, and a minimal UI.
 
+🌐 **Live Demo:** 👉 [Click here to try it](https://soumyadipsil.github.io/ToDo-App/)
+
 ---
 
 ## Features
